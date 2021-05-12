@@ -15,7 +15,7 @@ export default function MyApp() {
     <View>
       <Text>
         {"\n\n\n\n\n\n\n\n\n\n\n\n\n"}
-        Hello World, I am a {pet}!{getFullName("Bryan", "Muir")}
+        Hello World, I have a {pet}!{getFullName("Bryan", "Muir")}
       </Text>
       <Text>
         {"\n"}Now I can use multiple text brackets

@@ -4,7 +4,7 @@ import { Text, View } from "react-native";
 function MyApp() {
   return (
     <View>
-      <Text>I am a terrible student, I'm sorry</Text>
+      <Text>I am a CIS student, I'm excited to be in your class</Text>
     </View>
   );
 }

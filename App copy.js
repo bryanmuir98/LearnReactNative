@@ -6,7 +6,7 @@ export default function MyApp() {
   return (
     <Text>
       {"\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t"}
-      Hello World, I am a {pet}!
+      Hello World, I have a {pet}!
     </Text>
   );
 }
